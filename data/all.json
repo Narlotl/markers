@@ -37,7 +37,7 @@
   },
   {
     "name": "bc.json",
-    "location": "British Columbia
+    "location": "British Columbia"
   },
   {
     "name": "bf.json",
@@ -400,7 +400,7 @@
     "location": "West Virginia"
   },
   {
-    "name": "Yukon.json",
-    "location": "Texas"
-  },
+    "name": "yk.json",
+    "location": "Yukon"
+  }
 ]
