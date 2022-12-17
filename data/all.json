@@ -1,406 +1,421 @@
 [
   {
-    "name": "aa.json",
+    "file": "aa.json",
     "location": "Aruba"
   },
   {
-    "name": "ab.json",
+    "file": "ab.json",
     "location": "Alberta"
   },
   {
-    "name": "ac.json",
+    "file": "ac.json",
     "location": "Antigua and Barbuda"
   },
   {
-    "name": "ak.json",
+    "file": "ak.json",
     "location": "Alaska"
   },
   {
-    "name": "al.json",
+    "file": "al.json",
     "location": "Alabama"
   },
   {
-    "name": "ar.json",
+    "file": "ar.json",
     "location": "Arkansas"
   },
   {
-    "name": "as.json",
+    "file": "as.json",
     "location": "American Samoa"
   },
   {
-    "name": "az.json",
+    "file": "az.json",
     "location": "Arizona"
   },
   {
-    "name": "bb.json",
+    "file": "bb.json",
     "location": "Barbados"
   },
   {
-    "name": "bc.json",
+    "file": "bc.json",
     "location": "British Columbia"
   },
   {
-    "name": "bf.json",
+    "file": "bf.json",
     "location": "Bahamas"
   },
   {
-    "name": "bq.json",
+    "file": "bq.json",
     "location": "Navassa Island"
   },
   {
-    "name": "ca.json",
+    "file": [
+      "ca0.json",
+      "ca1.json"
+    ],
     "location": "California"
   },
   {
-    "name": "cj.json",
+    "file": "cj.json",
     "location": "Cayman Islands"
   },
   {
-    "name": "co.json",
+    "file": "co.json",
     "location": "Colorado"
   },
   {
-    "name": "cp.json",
+    "file": "cp.json",
     "location": "Curaçao"
   },
   {
-    "name": "cq.json",
+    "file": "cq.json",
     "location": "Tinian"
   },
   {
-    "name": "ct.json",
+    "file": "ct.json",
     "location": "Connecticut"
   },
   {
-    "name": "dc.json",
+    "file": "dc.json",
     "location": "Washington, District of Columbia"
   },
   {
-    "name": "de.json",
+    "file": "de.json",
     "location": "Delaware"
   },
   {
-    "name": "do.json",
+    "file": "do.json",
     "location": "Dominica"
   },
   {
-    "name": "dr.json",
+    "file": "dr.json",
     "location": "Dominican Republic"
   },
   {
-    "name": "es.json",
+    "file": "es.json",
     "location": "San Salvador"
   },
   {
-    "name": "fl.json",
+    "file": [
+      "fl0.json",
+      "fl1.json"
+    ],
     "location": "Florida"
   },
   {
-    "name": "fm.json",
+    "file": "fm.json",
     "location": "Micronesia"
   },
   {
-    "name": "ga.json",
+    "file": "ga.json",
     "location": "Georgia"
   },
   {
-    "name": "gj.json",
+    "file": "gj.json",
     "location": "Grenada"
   },
   {
-    "name": "gu.json",
+    "file": "gu.json",
     "location": "Guam"
   },
   {
-    "name": "gy.json",
+    "file": "gy.json",
     "location": "Guyana"
   },
   {
-    "name": "ha.json",
+    "file": "ha.json",
     "location": "Haiti"
   },
   {
-    "name": "hi.json",
+    "file": "hi.json",
     "location": "Hawaii"
   },
   {
-    "name": "ho.json",
+    "file": "ho.json",
     "location": "Guatamala, El Salvador, Honduras"
   },
   {
-    "name": "ia.json",
+    "file": "ia.json",
     "location": "Iowa"
   },
   {
-    "name": "id.json",
+    "file": "id.json",
     "location": "Idaho"
   },
   {
-    "name": "il.json",
+    "file": "il.json",
     "location": "Illinois"
   },
   {
-    "name": "in.json",
+    "file": "in.json",
     "location": "Indiana"
   },
   {
-    "name": "jm.json",
+    "file": "jm.json",
     "location": "Jamaica"
   },
   {
-    "name": "jq.json",
+    "file": "jq.json",
     "location": "Johnston Atoll"
   },
   {
-    "name": "ks.json",
+    "file": "ks.json",
     "location": "Kansas"
   },
   {
-    "name": "ky.json",
+    "file": "ky.json",
     "location": "Kentucky"
   },
   {
-    "name": "la.json",
+    "file": "la.json",
     "location": "Louisiana"
   },
   {
-    "name": "ma.json",
+    "file": "ma.json",
     "location": "Massachusetts"
   },
   {
-    "name": "mb.json",
+    "file": "mb.json",
     "location": "Manitoba"
   },
   {
-    "name": "md.json",
+    "file": "md.json",
     "location": "Maryland"
   },
   {
-    "name": "me.json",
+    "file": "me.json",
     "location": "Maine"
   },
   {
-    "name": "mi.json",
+    "file": "mi.json",
     "location": "Michigan"
   },
   {
-    "name": "ml.json",
+    "file": "ml.json",
     "location": "Marshall Islands"
   },
   {
-    "name": "mn.json",
+    "file": [
+      "mn0.json",
+      "mn1.json"
+    ],
     "location": "Minnesota"
   },
   {
-    "name": "mo.json",
+    "file": "mo.json",
     "location": "Missouri"
   },
   {
-    "name": "mq.json",
+    "file": "mq.json",
     "location": "Midway Atoll"
   },
   {
-    "name": "ms.json",
+    "file": "ms.json",
     "location": "Mississippi"
   },
   {
-    "name": "mt.json",
+    "file": "mt.json",
     "location": "Montana"
   },
   {
-    "name": "nb.json",
+    "file": "nb.json",
     "location": "New Brunswick"
   },
   {
-    "name": "nc.json",
+    "file": [
+      "nc0.json",
+      "nc1.json"
+    ],
     "location": "North Carolina"
   },
   {
-    "name": "nd.json",
+    "file": "nd.json",
     "location": "North Dakota"
   },
   {
-    "name": "ne.json",
+    "file": "ne.json",
     "location": "Nebraska"
   },
   {
-    "name": "nf.json",
+    "file": "nf.json",
     "location": "Newfoundland and Labrador"
   },
   {
-    "name": "nh.json",
+    "file": "nh.json",
     "location": "New Hampshire"
   },
   {
-    "name": "ne.json",
+    "file": "ne.json",
     "location": "Nebraska"
   },
   {
-    "name": "ni.json",
+    "file": "ni.json",
     "location": "Nicaragua"
   },
   {
-    "name": "nj.json",
+    "file": "nj.json",
     "location": "New Jersey"
   },
   {
-    "name": "nm.json",
+    "file": "nm.json",
     "location": "New Mexico"
   },
   {
-    "name": "nn.json",
+    "file": "nn.json",
     "location": "Baffin Island"
   },
   {
-    "name": "nu.json",
+    "file": "nu.json",
     "location": "Managua"
   },
   {
-    "name": "ne.json",
+    "file": "ne.json",
     "location": "Nebraska"
   },
   {
-    "name": "nv.json",
+    "file": "nv.json",
     "location": "Nevada"
   },
   {
-    "name": "nw.json",
+    "file": "nw.json",
     "location": "Northwest Territories"
   },
   {
-    "name": "ny.json",
+    "file": "ny.json",
     "location": "New York"
   },
   {
-    "name": "oh.json",
+    "file": "oh.json",
     "location": "Ohio"
   },
   {
-    "name": "ok.json",
+    "file": "ok.json",
     "location": "Oklahoma"
   },
   {
-    "name": "on.json",
+    "file": "on.json",
     "location": "Ontario"
   },
   {
-    "name": "or.json",
+    "file": "or.json",
     "location": "Oregon"
   },
   {
-    "name": "pa.json",
+    "file": "pa.json",
     "location": "Pennsylvania"
   },
   {
-    "name": "pq.json",
+    "file": "pq.json",
     "location": "Quebec"
   },
   {
-    "name": "pr.json",
+    "file": "pr.json",
     "location": "Puerto Rico"
   },
   {
-    "name": "pw.json",
+    "file": "pw.json",
     "location": "Palau"
   },
   {
-    "name": "ri.json",
+    "file": "ri.json",
     "location": "Rhode Island"
   },
   {
-    "name": "sc.json",
+    "file": "sc.json",
     "location": "South Carolina"
   },
   {
-    "name": "sd.json",
+    "file": "sd.json",
     "location": "South Dakota"
   },
   {
-    "name": "sj.json",
+    "file": "sj.json",
     "location": "Svalbard and Jan Mayen"
   },
   {
-    "name": "sk.json",
+    "file": "sk.json",
     "location": "Saskatchewan"
   },
   {
-    "name": "sn.json",
+    "file": "sn.json",
     "location": "Saint Kitts and Nevis"
   },
   {
-    "name": "sr.json",
+    "file": "sr.json",
     "location": "Suriname"
   },
   {
-    "name": "st.json",
+    "file": "st.json",
     "location": "Saint Lucia"
   },
   {
-    "name": "td.json",
+    "file": "td.json",
     "location": "Trinidad and Tobago"
   },
   {
-    "name": "tn.json",
+    "file": "tn.json",
     "location": "Tennessee"
   },
   {
-    "name": "tq.json",
+    "file": "tq.json",
     "location": "Unknown"
   },
   {
-    "name": "tx.json",
+    "file": [
+      "tx0.json",
+      "tx1.json"
+    ],
     "location": "Texas"
   },
   {
-    "name": "u1.json",
+    "file": "u1.json",
     "location": "United States Economic Exclusion Zone U1 for NAD83 2011"
   },
   {
-    "name": "ut.json",
+    "file": "ut.json",
     "location": "Utah"
   },
   {
-    "name": "va.json",
+    "file": "va.json",
     "location": "Virginia"
   },
   {
-    "name": "vc.json",
+    "file": "vc.json",
     "location": "Saint Vincent and the Grenadines"
   },
   {
-    "name": "vi.json",
+    "file": "vi.json",
     "location": "British Virgin Islands"
   },
   {
-    "name": "vq.json",
+    "file": "vq.json",
     "location": "United States Virgin Islands"
   },
   {
-    "name": "vt.json",
+    "file": "vt.json",
     "location": "Vermont"
   },
   {
-    "name": "wa.json",
+    "file": "wa.json",
     "location": "Washington"
   },
   {
-    "name": "wi.json",
+    "file": "wi.json",
     "location": "Wisconsin"
   },
   {
-    "name": "wq.json",
+    "file": "wq.json",
     "location": "Wake Island"
   },
   {
-    "name": "wy.json",
+    "file": "wy.json",
     "location": "Wyoming"
   },
   {
-    "name": "wv.json",
+    "file": "wv.json",
     "location": "West Virginia"
   },
   {
-    "name": "yk.json",
+    "file": "yk.json",
     "location": "Yukon"
   }
 ]
