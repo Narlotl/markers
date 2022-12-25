@@ -344,10 +344,6 @@
     "location": "Tennessee"
   },
   {
-    "file": "tq.json",
-    "location": "Unknown"
-  },
-  {
     "file": ["tx0.json", "tx1.json", "tx2.json", "tx3.json", "tx4.json"],
     "location": "Texas"
   },
