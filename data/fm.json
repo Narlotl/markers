@@ -1,0 +1,559 @@
+{
+    "date": "DECEMBER  2, 2022",
+    "region": "FM",
+    "markers": [
+        {
+            "description": "DESCRIBED BY NATIONAL OCEAN SERVICE 1993 (JGF) THE STATION IS LOCATED ON THE ISLAND OF YAP, YAP STATE, FEDERATED STATES OF MICRONESIA. THE STATION IS LOCATED ON THE ROOF OF THE LAND MANAGEMENT BUILDING IN THE TOWN OF COLONIA.  THIS STATION IS POOR AT BEST BECAUSE THERE IS CONSIDERABLE MOVEMENT IN THE ROOF OF THE BUILDING.  THE STATION WAS RECOVERED AND POSITIONED FOR HISTORICAL PURPOSES ONLY.  IT IS NOT RECOMMENDED FOR FUTURE SURVEY USE.",
+            "elevation": 18,
+            "history": [
+                {
+                    "date": "1984",
+                    "condition": "MONUMENTED",
+                    "reporter": "DOD"
+                },
+                {
+                    "date": "19930824",
+                    "condition": "GOOD",
+                    "reporter": "NOS"
+                }
+            ],
+            "id": "AA4447",
+            "lat": 9.517282875000001,
+            "long": 138.12123670555556,
+            "magnetic": "NO MAGNETIC MATERIAL",
+            "setting": "undefinedUNSPECIFIED SETTING",
+            "stability": "MARK OF QUESTIONABLE OR UNKNOWN STABILITY",
+            "type": "SURVEY DISK"
+        },
+        {
+            "description": "DESCRIBED BY NATIONAL OCEAN SERVICE 1993 (JGF) THE STATION IS LOCATED ON THE ISLAND OF YAP, YAP STATE, FEDERATED STATES OF MICRONESIA. TO REACH FROM THE VILLAGE OF COLONIA, PROCEED WSW 3.1 MI (5.0 KM) TOWARD THE AIRPORT ROAD RIGHT.  AT THIS POINT THE PAVEMENT ENDS, CONTINUE STRAIGHT ON GRAVEL ROAD FOR 1.15 MI (1.85 KM) TO A TRACK ROAD RIGHT.  TURN RIGHT AND PROCEED FOR .3 MI (0.5 KM) TO A TRACK ROAD RIGHT, TURN RIGHT AND PROCEED FOR .65 MI (1.05 KM) TO A TRACK ROAD LEFT, TURN HARD LEFT AND FOLLOW THIS ROAD UP TO THE BASE OF A SMALL HILL AND THE STATION.  A SHORT PACK THE REST OF THE WAY UP THE HILL OF ABOUT 1 MIN WILL BE REQUIRED. THE STATION IS A TRUST TERRITORY DISK STAMPED AIR AND SET IN CONCRETE. IT IS ABOUT 15 FT (4.6 M) FROM THE EDGE OF THE HILL AS YOU COME UP FROM THE TRAIL.                            STATION RECOVERY (2011)  RECOVERY NOTE BY INDIVIDUAL CONTRIBUTORS 2011 (AJU) RECOVERED IN GOOD CONDITION.",
+            "elevation": 70.3,
+            "history": [
+                {
+                    "date": "1967",
+                    "condition": "MONUMENTED",
+                    "reporter": "TQDLM"
+                },
+                {
+                    "date": "19930824",
+                    "condition": "GOOD",
+                    "reporter": "NOS"
+                },
+                {
+                    "date": "20110214",
+                    "condition": "GOOD",
+                    "reporter": "INDIV"
+                }
+            ],
+            "id": "AA4448",
+            "lat": 9.49965101111111,
+            "long": 138.07219106944444,
+            "magnetic": "NO MAGNETIC MATERIAL",
+            "setting": "undefinedSET IN TOP OF CONCRETE MONUMENT",
+            "stability": "MAY HOLD, BUT OF TYPE COMMONLY SUBJECT TOSURFACE MOTION",
+            "type": "SURVEY DISK"
+        },
+        {
+            "description": "DESCRIBED BY NATIONAL OCEAN SERVICE 1993 (JGF) THE STATION IS LOCATED ON THE ISLAND OF GAGIL-TOMIL ABOUT 7 MI (11.3 KM) FROM THE TOWN OF COLINIA, YAP STATE, FEDERATED STATES OF MICRONESIA. TO REACH THE STATION FROM THE LAND MANAGEMENT OFFICE IN THE TOWN OF COLONIA, PROCEED NORTH ON THE MAIN HIGHWAY FOR ABOUT 7 MI (11.3 KM) TO A PAVED ROAD LEFT.  TURN LEFT AND GO .1 MI (0.2 KM) TO A CUT THROUGH A HILL.  PARK ON THE LEFT SIDE OF THE ROAD JUST BEFORE ENTERING THE CUT. PACK UP THE TRAIL UP THE HILL, ACROSS THE FIRST KNOLL TO THE MARK ON TOP OF THE SECOND KNOLL. THE STATION IS A TRUST TERRITORIES DISK SET IN CONCRETE AND STAMPED -CUT-.",
+            "elevation": 61,
+            "history": [
+                {
+                    "date": "1967",
+                    "condition": "MONUMENTED",
+                    "reporter": "TQDLM"
+                },
+                {
+                    "date": "19930824",
+                    "condition": "GOOD",
+                    "reporter": "NOS"
+                }
+            ],
+            "id": "AA4449",
+            "lat": 9.550766977777778,
+            "long": 138.15446260833332,
+            "magnetic": "NO MAGNETIC MATERIAL",
+            "setting": "undefinedSET IN TOP OF CONCRETE MONUMENT",
+            "stability": "MAY HOLD, BUT OF TYPE COMMONLY SUBJECT TOSURFACE MOTION",
+            "type": "SURVEY DISK"
+        },
+        {
+            "description": "DESCRIBED BY LAMONT-DOHERTY GEOLOGICAL OBSERVATORY 1990 (JB) THE STATION IS LOCATED ON YAP ISLAND, YAP STATE, FEDERATED STATES OF MICRONESIA. TO REACH THE STATION FROM THE POST OFFICE IN THE TOWN OF COLONIA, PROCEED WEST ON ROAD TO THE AIRPORT FOR 1.9 MI (3.1 KM) TO A TRACK ROAD ON RIGHT ACCROSS FROM THE OLD SEABEE BASE.  TURN RIGHT ONTO TRACK ROAD AND PROCEED FOR .3 MI (0.5 KM) TO A FORK, FOLLOW MAIN TRACK ROAD TO LEFT FOR .2 MI (0.3 KM) TO A GRAVE SITE. THE STATION IS A STANDARD LDGO EARTHQUAKE RESAERCH DISK EPOXIED INTO A DRILL HOLE IN A 1 M (3.3 FT) DIAMETER PHYLLITE OUTCROP NEAR THE TOP OF THE HILL.  THE DISK IS STAMPED -DAKIY 1990- AND HAS AN APPROXIMATELY CENTRAL CENTER-PUNCHED HOLE TO MARK THE STATION POSITION.",
+            "elevation": 46.7,
+            "history": [
+                {
+                    "date": "1990",
+                    "condition": "MONUMENTED",
+                    "reporter": "LDGO"
+                }
+            ],
+            "id": "AA4450",
+            "lat": 9.501331211111111,
+            "long": 138.0945463611111,
+            "magnetic": "NO MAGNETIC MATERIAL",
+            "setting": "undefinedSET IN ROCK OUTCROP",
+            "stability": "MOST RELIABLE AND EXPECTED TO HOLDPOSITION/ELEVATION WELL",
+            "type": "SURVEY DISK"
+        },
+        {
+            "description": "DESCRIBED BY NATIONAL OCEAN SERVICE 1993 (JGF) THE STATION IS LOCATED ON THE ISLAND GAGIL-TOMIL, YAP STATE, FEDERATED STATES OF MICRONESIA. TO REACH THE STATION FROM THE SITE OF THE OLD COAST GUARD STATION, PROCEED EAST ON A TRACK ROAD FOR ABOUT 1 MI (1.6 KM) TO A POINT OPPOSITE THE STATION.  PACK UPHILL ABOUT 5 MINUTES TO THE STATION. THE STATION IS A TRUST TERRITORY DISK STAMPED -FAR- AND SET IN CONCRETE.",
+            "elevation": 83,
+            "history": [
+                {
+                    "date": "1967",
+                    "condition": "MONUMENTED",
+                    "reporter": "TQDLM"
+                },
+                {
+                    "date": "19930824",
+                    "condition": "GOOD",
+                    "reporter": "NOS"
+                }
+            ],
+            "id": "AA4451",
+            "lat": 9.545005144444444,
+            "long": 138.17882259166666,
+            "magnetic": "NO MAGNETIC MATERIAL",
+            "setting": "undefinedSET IN TOP OF CONCRETE MONUMENT",
+            "stability": "MAY HOLD, BUT OF TYPE COMMONLY SUBJECT TOSURFACE MOTION",
+            "type": "SURVEY DISK"
+        },
+        {
+            "description": "DESCRIBED BY NATIONAL OCEAN SERVICE 1993 (JGF) THE STATION IS LOCATED IN POHNPEI, FEDERATED STATES OF MICRONESIA AT THE NET POINT PIER. TO REACH THE STATION FROM THE ENTRANCE ROAD TO THE VILLAGE HOTEL, DRIVE WEST OF THE MAIN PAVED ROAD TO KOLONIA FOR 3.4 MI (5.5 KM) TO A DIRT ROAD JUST BEFORE A BRIDGE. TURN RIGHT AND FOLLOW DIRT ROAD NORTH TO PIER AND STATION. THE STATION IS LOCATED ON THE NW CORNER OF THE PIER 3 FT (0.9 M) SOUTH OF THE NORTH FACE OF THE PIER, 3 FT (0.9 M) EAST OF THE WEST END OF THE PIER, 34.5 FT (10.5 M) NORTHEAST OF THE OLD WAREHOUSE FOUNDATION, 8.1 FT (2.5 M) WEST OF THE CENTER OF THE MOST WESTERLY IRON PIER CLEAT AND 7.3 FT (2.2 M) NORTH OF THE STEM OF TIDAL BENCH MARK 2 1969.  THE STATION IS A STANDARD NOS DISK SET IN A DRILL HOLE FLUSH WITH THE CONCRETE PIER STAMPED STAMPED -FISHER 1993-.",
+            "elevation": 3,
+            "history": [
+                {
+                    "date": "1993",
+                    "condition": "MONUMENTED",
+                    "reporter": "NOS"
+                }
+            ],
+            "id": "AA4442",
+            "lat": 6.979657180555556,
+            "long": 158.22615895833331,
+            "magnetic": "NO MAGNETIC MATERIAL",
+            "setting": "undefinedSET IN THE FOOTINGS OF SMALL/MEDIUM STRUCTURES",
+            "stability": "MAY HOLD, BUT OF TYPE COMMONLY SUBJECT TOSURFACE MOTION",
+            "type": "SURVEY DISK"
+        },
+        {
+            "description": "DESCRIBED BY NATIONAL OCEAN SERVICE 1993 (JGF) THE STATION IS LOCATED ON THE ISLAND OF GAGIL-TOMIL, YAP STATE, FEDERATED STATES OF MICRONESIA. TO REACH THE STATION FROM THE MANTA RAY HOTEL, TRAVEL NORTH ALONG MAIN ROAD FOR 6.2 MI (10.0 KM) TO A FORK LEFT.  TURN LEFT AND PROCEED FOR 1.7 MI (2.7 KM) TO A SMALL TARMAC PARKING PLACE ON THE RIGHT. FROM HERE PACK WEST FOR 200 M (656.2 FT) TO TOP OF HILL AND STATION. THE STATION IS A TRUST TERRITORY MARK STAMPED -GAG- SET IN THE TOP OF A CONCRETE MONUMENT.",
+            "elevation": 45,
+            "history": [
+                {
+                    "date": "1967",
+                    "condition": "MONUMENTED",
+                    "reporter": "TQDLM"
+                },
+                {
+                    "date": "19930824",
+                    "condition": "GOOD",
+                    "reporter": "NOS"
+                }
+            ],
+            "id": "AA4452",
+            "lat": 9.569227325,
+            "long": 138.16215691388888,
+            "magnetic": "NO MAGNETIC MATERIAL",
+            "setting": "undefinedSET IN TOP OF CONCRETE MONUMENT",
+            "stability": "MAY HOLD, BUT OF TYPE COMMONLY SUBJECT TOSURFACE MOTION",
+            "type": "SURVEY DISK"
+        },
+        {
+            "description": "DESCRIBED BY NATIONAL OCEAN SERVICE 1993 (JGF) THE STATION IS LOCATED ON THE ISLAND OF YAP, YAP STATE, FEDERATED STATES OF MICRONESIA. TO REACH FROM THE MANTA RAY HOTEL IN THE TOWN OF COLONIA, PROCEED NORTH ALONG THE MAIN ROAD FOR 3.6 MI (5.8 KM) TO THE TRACK ROAD LEFT. THERE IS A SIGNPOST AT THIS LOCATION WHICH READS N FANIF SCHOOL. TURN LEFT ON TRACK ROAD AND PROCEED FOR .8 MI (1.3 KM) TO STATION ON TOP OF HILL 300 FT (91.4 M) ON THE LEFT.  THE PACK UP THE HILL IS ABOUT FIVE MINUTES. THE STATION IS A TRUST TERRITORIES DISK STAMPED -GAR- SET IN A CONCRETE MONUMENT.",
+            "elevation": 63,
+            "history": [
+                {
+                    "date": "1967",
+                    "condition": "MONUMENTED",
+                    "reporter": "TQDLM"
+                },
+                {
+                    "date": "19930824",
+                    "condition": "GOOD",
+                    "reporter": "NOS"
+                }
+            ],
+            "id": "AA4453",
+            "lat": 9.567087747222223,
+            "long": 138.1242421972222,
+            "magnetic": "NO MAGNETIC MATERIAL",
+            "setting": "undefinedSET IN TOP OF CONCRETE MONUMENT",
+            "stability": "MAY HOLD, BUT OF TYPE COMMONLY SUBJECT TOSURFACE MOTION",
+            "type": "SURVEY DISK"
+        },
+        {
+            "description": "DESCRIBED BY NATIONAL OCEAN SERVICE 1993 (JGF) THE STATION IS LOCATED ON WENO ISLAND, CHUUK STATE, FEDERATED STATES OF MICRONESIA AT THE NATIONAL WEATHER SERVICE OFFICE NEAR THE CHUUK INTERNATIONAL AIRPORT. THE STATION 57 FT (17.4 M) SOUTHWEST OF THE NORTHEAST SIDE OF THE PERIMETER FENCE, 29.5 FT (9.0 M) SOUTHEAST OF THE NORTHWEST SIDE OF THE PERIMETER FENCE, 26.3 FT (8.0 M) NORTH OF THE NORTH CORNER OF THE BOTTOM STEP OF A SET OF STEPS LEADING TO THE ROOF OF THE WEATHER SERVICE MAIN BUILDING AND 4.2 FT (1.3 M) SOUTHEAST OF THE SUNSHINE MEASURING INSTRUMENT. THE STATION IS SET IN A DRILL HOLE IN THE SOUTHEAST CORNER OF A 90 DEGREE BEND IN THE CONCRETE SIDEWALK STAMPED -GAUGE 1993-.                            STATION RECOVERY (2011)  RECOVERY NOTE BY INDIVIDUAL CONTRIBUTORS 2011 (AKP) RECOVERED IN GOOD CONDITION.",
+            "elevation": 2,
+            "history": [
+                {
+                    "date": "1993",
+                    "condition": "MONUMENTED",
+                    "reporter": "NOS"
+                },
+                {
+                    "date": "20110319",
+                    "condition": "GOOD",
+                    "reporter": "INDIV"
+                }
+            ],
+            "id": "AA4420",
+            "lat": 7.457188425,
+            "long": 151.8397732472222,
+            "magnetic": "NO MAGNETIC MATERIAL",
+            "setting": "undefinedSET IN A PAVEMENT SUCH AS STREET, SIDEWALK, CURB, ETC.",
+            "stability": "MARK OF QUESTIONABLE OR UNKNOWN STABILITY",
+            "type": "SURVEY DISK"
+        },
+        {
+            "description": "DESCRIBED BY NATIONAL OCEAN SERVICE 1993 (JGF) THE STATION IS LOCATED IN KOSRAE, FEDERATED STATES OF MICRONESIA IN THE TOWN OF LELU.  THE MARK IS SET IN THE PIER IN THE TOWN OF LELU IN THE VICINITY OF BM 5.",
+            "elevation": 3,
+            "history": [
+                {
+                    "date": "1993",
+                    "condition": "MONUMENTED",
+                    "reporter": "NOS"
+                }
+            ],
+            "id": "AA4438",
+            "lat": 5.330193497222222,
+            "long": 163.02472346944444,
+            "magnetic": "NO MAGNETIC MATERIAL",
+            "setting": "undefinedSET IN A MASSIVE STRUCTURE",
+            "stability": "PROBABLY HOLD POSITION/ELEVATION WELL",
+            "type": "SURVEY DISK"
+        },
+        {
+            "description": "DESCRIBED BY NATIONAL OCEAN SERVICE 1993 (JGF) THE STATION IS LOCATED ON THE EAST SIDE OF WONO ISLAND, CHUUK STATE, FEDERATED STATES OF MICRONESIA AT THE CENTER OF THE TOP OF AN OLD ABANDONED LIGHTHOUSE. THE STATION IS BEST REACHED BY PACKING NORTH AND UP FROM THE VILLIAGE OF SAPUK.  ACCESS TO THE PROPERTY SHOULD BE OBTAINED FROM THE PROPERTY OWNER.  AS WITH EVERYTHING IN THE FSM, EXPECT TO PAY A FEE. THE STATION IS THE TOP OF THE CENTER OF AN OLD ABANDONED LIGHTHOUSE, DETERMINED BY MEASURING THE CENTER OF THE 6 INCH METAL PIPE THAT PROJECTS SLIGHTLY ABOVE THE CIRCULAR 3.4 FT (1.0 M) DIAMETER METAL BASE PLATE.",
+            "elevation": 106,
+            "history": [
+                {
+                    "date": "1970",
+                    "condition": "FIRST",
+                    "reporter": "OBSERVED"
+                },
+                {
+                    "date": "19930828",
+                    "condition": "GOOD",
+                    "reporter": "NOS"
+                }
+            ],
+            "id": "AA4421",
+            "lat": 7.448408319444445,
+            "long": 151.89618146666666,
+            "type": "LIGHTHOUSE"
+        },
+        {
+            "description": "DESCRIBED BY YAP STATE 1993 (MN) THE STATION IS LOCATED ON THE ISLAND OF YAP, YAP STATE, FEDERATED STATES OF MICRONESIA. TO REACH THE STATION FROM THE STATE SURVEY OFFICE, PROCEED .1 MI (0.2 KM) WEST ALONG PAVED ROAD TO PAVED ROAD RIGHT, THERE IS A STATUE OF JESUS ON THE CORNER.  TURN RIGHT AND PROCEED UP PAVED ROAD FOR .25 MI (0.40 KM) TO A Y JUNCTION.  ROAD WILL TURN TO DIRT BY THIS POINT. TURN AND FOLLOW ROAD TO RIGHT FOR .4 MI (0.6 KM) TO A HILL AND STATION TO RIGHT.  THE STATION IS TO THE RIGHT OF THE TRACK ROAD BY ABOUT 20 M (65.6 FT) SET ON A SMALL RISE CLOSE TO A WOODEN TELEPHONE POLE.  A FOUR WHEEL DRIVE VEHICLE IS REQUIRED TO REACH THIS STATION.",
+            "elevation": 123,
+            "history": [
+                {
+                    "date": "1993",
+                    "condition": "MONUMENTED",
+                    "reporter": "YAP"
+                }
+            ],
+            "id": "AA4454",
+            "lat": 9.526733327777778,
+            "long": 138.11708454722222,
+            "magnetic": "NO MAGNETIC MATERIAL",
+            "setting": "undefinedOBJECT SURROUNDED BY MASS OF CONCRETE",
+            "stability": "MOST RELIABLE AND EXPECTED TO HOLDPOSITION/ELEVATION WELL",
+            "type": "SURVEY DISK"
+        },
+        {
+            "description": "DESCRIBED BY NATIONAL OCEAN SERVICE 1993 (JGF) THE STATION IS ON WONO ISLAND, CHUUK STATE, FEDERATED STATES OF MICRONESIA ON THE SOUTHEAST EDGE OF THE HIGHEST TOP ABOVE THE CHUUK INTERNATIONAL AIRPORT KNOWN AS MT. TONACHAW. TO REACH THE STATION FROM THE U. S. AIR FORCE CAT STATION, TAKE TRAIL ALONG E SIDE OF WATER TANK UP RIDGE TO TOP AND STATION.  CONTACT LOCAL LAND MANAGEMENT OFFICE FOR GUIDE. THE STATION IS A MASS OF CONCRETE WITH A NAIL IN A PIPE SCRIBED -PAN LM 1968-.",
+            "elevation": 228,
+            "history": [
+                {
+                    "date": "1968",
+                    "condition": "MONUMENTED",
+                    "reporter": "TQDLM"
+                },
+                {
+                    "date": "19930828",
+                    "condition": "GOOD",
+                    "reporter": "NOS"
+                }
+            ],
+            "id": "AA4422",
+            "lat": 7.4569433555555555,
+            "long": 151.8494667111111,
+            "magnetic": "NO MAGNETIC MATERIAL",
+            "setting": "undefinedUNSPECIFIED SETTING",
+            "stability": "PROBABLY HOLD POSITION/ELEVATION WELL",
+            "type": "SEE DESCRIPTION"
+        },
+        {
+            "description": "DESCRIBED BY NATIONAL OCEAN SERVICE 1993 (JGF) THE STATION IS LOCATED IN POHNPEI STATE, FEDERATED STATES OF MICRONESIA AT THE WEST END OF THE POHNPEI INTERNATIONAL AIRPORT ON THE NORTH SIDE OF THE RUNWAY. THE STATION IS 140.4 FT (42.8 M) NORTH OF A 3 INCH DIAMETER SHELL CASING SEET IN CONCRETE ON THE RUNWAY CENTERLINE.  IT IS 152 FT (46.3 M) SW OF A WINDSOCK, 13.5 FT (4.1 M) SE OF A RUNWAY END INDENTIFIER LIGHT, AND 27.9 FET NE OF A 1.1 FT (0.3 M) DIAMETER METAL ELECTRICAL COVER THAT IS JUST WEST OF THE NORTHERN MOST THRESHOLD LIGHT AT RUNWAY END 9. THE STATION IS A PUNCH MARK 2 CM NW OF THE CENTER OF A 6 INCH DIAMETER SHELL CASING SET IN CONCRETE AND STAMPED -PNI A 1993 CGS-.                            STATION RECOVERY (2010)  RECOVERY NOTE BY INDIVIDUAL CONTRIBUTORS 2010 (AKP) RECOVERED AS DESCRIBED",
+            "elevation": 2,
+            "history": [
+                {
+                    "date": "1993",
+                    "condition": "MONUMENTED",
+                    "reporter": "NOS"
+                },
+                {
+                    "date": "20100823",
+                    "condition": "GOOD",
+                    "reporter": "INDIV"
+                }
+            ],
+            "id": "AA4443",
+            "lat": 6.98552295,
+            "long": 158.200708975,
+            "magnetic": "NO MAGNETIC MATERIAL",
+            "setting": "undefinedOBJECT SURROUNDED BY MASS OF CONCRETE",
+            "stability": "PROBABLY HOLD POSITION/ELEVATION WELL",
+            "type": "AMMO SHELL CASING"
+        },
+        {
+            "description": "DESCRIBED BY NATIONAL OCEAN SERVICE 1993 (JGF) THE STATION IS LOCATED IN POHNPEI STATE, FEDERATED STATES OF MICRONESIA, AT THE EAST END OF POHNPEI INTERNATIONAL AIRPORT, ON THE NORTH SIDE OF THE RUNWAY.  IT IS 140.2 FT (42.7 M) NORTH OF A 3 INCH DIAMETER SHELL CASING SET IN CONCRETE ON THE RUNWAY CENTERLINE, 103.5 FT (31.5 M) WEST OF THE SEAWALL AT RUNWAY END 27 AND 27 FT (8.2 M) NORTHWEST OF THE NORTHEAST CORNER OF THE RUNWAY PAVEMENT. THE STATION IS A PUNCH MARK 2 CM SOUTHWEST OF THE CENTER OF A 6 INCH DIAMETER SHELL CASING SET IN CONCRETE AND STAMPED -PNI 1993 CGS-.                            STATION RECOVERY (2010)  RECOVERY NOTE BY INDIVIDUAL CONTRIBUTORS 2010 RECOVERED AS DESCRIBED",
+            "elevation": 2.3,
+            "history": [
+                {
+                    "date": "1993",
+                    "condition": "MONUMENTED",
+                    "reporter": "NOS"
+                },
+                {
+                    "date": "20100823",
+                    "condition": "GOOD",
+                    "reporter": "INDIV"
+                }
+            ],
+            "id": "AA4444",
+            "lat": 6.985445111111111,
+            "long": 158.21726271666665,
+            "magnetic": "NO MAGNETIC MATERIAL",
+            "setting": "undefinedOBJECT SURROUNDED BY MASS OF CONCRETE",
+            "stability": "PROBABLY HOLD POSITION/ELEVATION WELL",
+            "type": "AMMO SHELL CASING"
+        },
+        {
+            "description": "DESCRIBED BY NATIONAL OCEAN SERVICE 1993 (JGF) THE STATION IS LOCATED IN POHNPEI STATE, FEDERATED STATES OF MICRONESIA AT THE POHNPEI INTERNATIONAL AIRPORT. THE STATION IS 1200 FT (365.8 M) WEST OF RUNWAY END 27 ON THE SOUTH SIDE OF THE RUNWAY AT THE WESTERN MOST SET OF VISUAL APPROACH SLOPE INDICATOR LIGHTS (VASI) FOR RUNWAY 27.  THE STATION IS 54 FT (16.5 M) SOUTH OF THE SOUTH EDGE OF THE SOUTH OF TWO VASI LIGHTS, 47.7 FT (14.5 M) SOUTHWEST OF A RUNWAY LIGHT AND 20.5 FT (6.2 M) NORTHEAST OF THE VASI POWER CONTROL BOX. THE STATION IS A STANDARD NOS DISK SET IN A DRILL HOLE IN A 6.5 FT (2.0 M) BY 6.0 FT (1.8 M) CONCRETE BASE FOR SUPPORTING THE MOST NORTHWESTERLY VASI LIGHT FOR RUNWAY 27 AND IS STAMPED -PNIC 1993-.                            STATION RECOVERY (2010)  RECOVERY NOTE BY INDIVIDUAL CONTRIBUTORS 2010 RECOVERED AS DESCRIBED",
+            "elevation": 3,
+            "history": [
+                {
+                    "date": "1993",
+                    "condition": "MONUMENTED",
+                    "reporter": "NOS"
+                },
+                {
+                    "date": "20100823",
+                    "condition": "GOOD",
+                    "reporter": "INDIV"
+                }
+            ],
+            "id": "AA4445",
+            "lat": 6.9847175,
+            "long": 158.21394106388888,
+            "magnetic": "NO MAGNETIC MATERIAL",
+            "setting": "undefinedSET IN A MAT FOUNDATION OR CONCRETE SLAB OTHER THAN",
+            "stability": "MAY HOLD, BUT OF TYPE COMMONLY SUBJECT TOSURFACE MOTION",
+            "type": "SURVEY DISK"
+        },
+        {
+            "description": "DESCRIBED BY NATIONAL GEODETIC SURVEY 2011 (EEC) POHNPEI CGPS IS LOCATED IN FEDERATED STATES OF MICRONESIA ON THE ISLAND OF POHNPEI.   THE SITE IS LOCATED WITHIN THE WEATHER OFFICE GROUNDS OF POHNPEI.   THE MONUMENT IS A 400 MM (15.7 INCH) DIAMETER CONCRETE PILLAR, 1.5 M (4.9 FT) ABOVE GROUND SURFACE.  A 250 MM (9.8 INCH) STAINLESS STEEL PLATE IS CENTERED INTO THE TOP OF THE MONUMENT.   THIS CGPS PILLAR IS PART OF THE SOUTH PACIFIC SEA LEVEL CLIMATE MONITORING PROGRAM (SPSLCMP)WHICH IS PART OF THE AUSTRALIAN GOVERNMENT.  GPS DATA FOR THIS SITE IS ACCESSIBLE AT THE FOLLOWING SITE  HTTP //WWW.GA.GOV.AU/GEODESY/SLM/SPSLCMP/NETWORK.JSP                            STATION RECOVERY (2017)  RECOVERY NOTE BY NATIONAL GEODETIC SURVEY 2017 (NGS) RECOVERED IN GOOD CONDITION.",
+            "elevation": 40,
+            "history": [
+                {
+                    "date": "2003",
+                    "condition": "MONUMENTED",
+                    "reporter": "NONE"
+                },
+                {
+                    "date": "20110302",
+                    "condition": "GOOD",
+                    "reporter": "NGS"
+                },
+                {
+                    "date": "20170827",
+                    "condition": "GOOD",
+                    "reporter": "NGS"
+                }
+            ],
+            "id": "DM7817",
+            "lat": 6.959935300000001,
+            "long": 158.210123925,
+            "setting": "undefinedUNSPECIFIED SETTING",
+            "stability": "MARK OF QUESTIONABLE OR UNKNOWN STABILITY",
+            "type": "SEE DESCRIPTION"
+        },
+        {
+            "description": "DESCRIBED BY NATIONAL OCEAN SERVICE 1993 (JGF) THE STATION IS LOCATED ON POHNPEI STATE, FEDERATED STATES OF MICRONESIA ABOUT 4 MI (6.4 KM) SOUTHWEST OF KOLONIA ON THE TOP OF A GRASSY KNOLL JUST NORTHWEST OF THE DOLEN STORE. TO REACH FROM THE ENTRANCE ROAD OF THE VILLAGE HOTEL, DRIVE WEST ON THE MAIN PAVED ROAD TO KOLONIA FOR 5.3 MI (8.5 KM) TO A PAVED ROAD LEFT.  TURN LEFT ON PAVED ROAD AND PROCEED .8 MI (1.3 KM) TO A BEND RIGHT THEN .3 MI (0.5 KM) TO A FORK RIGHT,TAKE RIGHT FORK THEN PROCEED .5 MI (0.8 KM) TO A FORK LEFT, TAKE LEFT FORK THEN PROCEED 3.2 MI (5.1 KM) TO DOLEN STORE AND THE STATION RIGHT. THE TRAIL TO THE STATION BEGINS JUST WEST OF DOLEN STORE AND PROCEEDS ACROSS CULTIVATED FIELD TO TRAIL HEADING NORTHWEST TO STATION. THE STATION IS A TRUST TERRITORY DISK IN A 6 INCH DIAMETER GUN SHELL SET IN A CONCRETE POST PROJECTING .5 FT (15.2 CM) STAMPED -STA 48 1968-",
+            "elevation": 150,
+            "history": [
+                {
+                    "date": "1970",
+                    "condition": "MONUMENTED",
+                    "reporter": "TQDLM"
+                },
+                {
+                    "date": "19930806",
+                    "condition": "GOOD",
+                    "reporter": "NOS"
+                }
+            ],
+            "id": "AA4446",
+            "lat": 6.925914347222222,
+            "long": 158.1724980027778,
+            "magnetic": "NO MAGNETIC MATERIAL",
+            "setting": "undefinedSET INTO TOP OF METAL PIPE DRIVEN INTO GROUND",
+            "stability": "MAY HOLD, BUT OF TYPE COMMONLY SUBJECT TOSURFACE MOTION",
+            "type": "SURVEY DISK"
+        },
+        {
+            "description": "DESCRIBED BY NATIONAL OCEAN SERVICE 1993 (JGF) THE STATION IS LOCATED ON WENO ISLAND, CHUUK STATE, FEDERATED STATES OF MICRONESIA AT THE CHUUK INTERNATIONAL AIRPORT. THE STATION IS BETWEEN THE TWO VISIUAL APPROACH INDICATOR LIGHTS (VASI) AT THE SOUTHWEST SET OF VASI LIGHTS FOR RUNWAY 22.  THE STATION IS 65 FT (19.8 M) SOUTHEAST OF RUNWAY LIGHT 47, 50 FT (15.2 M) NORTHEAST OF AN ORANGE ELICTRICAL BOX FOR THE VASI LIGHTS, AND 7.2 FT (2.2 M) NORTHWEST OF THE POWER CONTROL BOX. THE STATION IS SET IN A DRILL HOLE IN THE NORTH CORNER OF A 3 FT (0.9 M) BY 3 FT (0.9 M) CONCRETE PAD BETWEEN TWO VASI LIGHTS AND IS STAMPED -TKK C 1993-                            STATION RECOVERY (2011)  RECOVERY NOTE BY INDIVIDUAL CONTRIBUTORS 2011 (AKP) RECOVERED IN GOOD CONDITION.",
+            "elevation": 2.8,
+            "history": [
+                {
+                    "date": "1993",
+                    "condition": "MONUMENTED",
+                    "reporter": "NOS"
+                },
+                {
+                    "date": "20110319",
+                    "condition": "GOOD",
+                    "reporter": "INDIV"
+                }
+            ],
+            "id": "AA4425",
+            "lat": 7.465076386111111,
+            "long": 151.84685397777778,
+            "magnetic": "NO MAGNETIC MATERIAL",
+            "setting": "undefinedSET IN A MAT FOUNDATION OR CONCRETE SLAB OTHER THAN",
+            "stability": "MAY HOLD, BUT OF TYPE COMMONLY SUBJECT TOSURFACE MOTION",
+            "type": "SURVEY DISK"
+        },
+        {
+            "description": "DESCRIBED BY NATIONAL OCEAN SERVICE 1993 (JGF) THE STATION IS LOCATED IN KOSRAE STATE, FEDERATED STATES OF MICRONESIA AT THE KOSRAE AIRPORT, JUST NNW OF RUNWAY END 5.  IT IS 45 FT (13.7 M) SE OF THE CENTER OF THE NW RUNWAY END IDENTIFIER LIGHT, 19.5 FT (5.9 M) EAST OF THE MOST NORTHWESTERLY THRESHOLD LIGHT AT RUNWAY END 5, AND 30.4 FT (9.3 M) NE OF THE FIRST RUNWAY THRESHOLD LIGHT NW OF RUNWAY END 5. THE STATION IS A STANDARD NOS DISK SET IN A DRILL HOLE IN A 5 FT (1.5 M) BY 5 FT (1.5 M) CONCRETE ELECTRICAL VAULT AND STAMPED -TTK A 1993-.                            STATION RECOVERY (1995)  RECOVERY NOTE BY NATIONAL GEODETIC SURVEY 1995 THE STATION IS LOCATED IN THE WEST PART OF THE AIRPORT NEAR RWY END 5. IT IS 110.0 FT (33.5 M) NORTH OF CL END RWY 5 (MARKED WITH A PK N AND W), 45.0 FT (13.7 M) SOUTHEAST OF THE NORTH REIL AND 19.5 FT (5.9 M) EAST OF THE NORTHERLY THRESHOLD LIGHT.  IT IS AN NOS DISK STAMPED TTK A 1993 AND SET IN A DRILLHOLE IN THE NORTHWEST CORNER OF 5X5 FT CONCRETE ELECTRICAL MANHOLE.                            STATION RECOVERY (2010)  RECOVERY NOTE BY INDIVIDUAL CONTRIBUTORS 2010 (AKP) FOUND DESTROYED BRASS DISK EXCEPT STEM IS STILL INTACT IN CONCRETE PAD WHICH WAS NOT DESTROYED.  DISTANCE BETWEEN TTK A AND TTK C WAS MEASURED AND VERIFIED AND DISTANCE FOUND WAS WITHIN THE ALLOWABLE ERROR OF +/- 3.0 CM. AS PER AC 150/3500-18B.",
+            "elevation": 4,
+            "history": [
+                {
+                    "date": "1993",
+                    "condition": "MONUMENTED",
+                    "reporter": "NOS"
+                },
+                {
+                    "date": "19950215",
+                    "condition": "GOOD",
+                    "reporter": "NGS"
+                },
+                {
+                    "date": "20101114",
+                    "condition": "GOOD",
+                    "reporter": "INDIV"
+                }
+            ],
+            "id": "AA4439",
+            "lat": 5.352779783333333,
+            "long": 162.95171444166667,
+            "magnetic": "OTHER; SEE DESCRIPTION",
+            "setting": "undefinedUNSPECIFIED SETTING",
+            "stability": "MARK OF QUESTIONABLE OR UNKNOWN STABILITY",
+            "type": "TOPOGRAPHIC STATION DISK"
+        },
+        {
+            "description": "DESCRIBED BY NATIONAL OCEAN SERVICE 1993 (JGF) THE STATION IS LOCATED IN KOSRAE STATE, FEDERATED STATES OF MICRONESIA, AT THE KOSRAE AIRPORT, JUST SOUTHWEST OF RUNWAY END 23. THE STATION IS 46 FT (14.0 M) WNW OF THE SOUTHEAST RUNWAY END IDENTIFIER LIGHT AT RUNWAY END 23, 31.7 FT (9.7 M) SOUTH OF THE FIRST THRESHOLD LIGHT SOUTH OF RUNWAY END 23, AND 21.1 FT (6.4 M) SW OF THE MOST SOUTHEASTERLY THRESHOLD LIGHT AT RUNWAY END 23. THE STATION IS A STANDARD NOS DISK SET IN A DRILL HOLE ON THE SW SIDE OF A 5 FT (1.5 M) BY 5 FT (1.5 M) CONCRETE ELECTRICAL VAULT AND STAMPED -TTK C 1993-.                            STATION RECOVERY (1995)  RECOVERY NOTE BY NATIONAL GEODETIC SURVEY 1995 THE STATION IS LOCATED IN THE EAST PART OF THE AIRPORT NEAR RWY END 23.  IT IS 109.9 FT (33.5 M) SOUTH CL END RWY 23 (MARKED WITH A PK N/W), 46.0 FT (14.0 M) WEST OF THE SOUTH REIL, AND 21.3 FT (6.5 M) WEST OF THE SOUTHERLY THRESHOLD LIGHT.  IT IS AN NOS DISK STAMPED TTK C 1993 AND SET IN A DRILLHOLE IN THE SOUTHWEST CORNER OF A 5X5 FT CONCRETE ELECTRICAL MANHOLE.                            STATION RECOVERY (2010)  RECOVERY NOTE BY INDIVIDUAL CONTRIBUTORS 2010 (AKP) RECOVERED AS DESCRIBED",
+            "elevation": 4,
+            "history": [
+                {
+                    "date": "1993",
+                    "condition": "MONUMENTED",
+                    "reporter": "NOS"
+                },
+                {
+                    "date": "19950215",
+                    "condition": "GOOD",
+                    "reporter": "NGS"
+                },
+                {
+                    "date": "20101114",
+                    "condition": "GOOD",
+                    "reporter": "INDIV"
+                }
+            ],
+            "id": "AA4441",
+            "lat": 5.361164430555555,
+            "long": 162.96504482777777,
+            "magnetic": "OTHER; SEE DESCRIPTION",
+            "setting": "undefinedUNSPECIFIED SETTING",
+            "stability": "MARK OF QUESTIONABLE OR UNKNOWN STABILITY",
+            "type": "TOPOGRAPHIC STATION DISK"
+        },
+        {
+            "description": "DESCRIBED BY NATIONAL OCEAN SERVICE 1993 (JGF) THE STATION IS LOCATED ON THE ISLAND OF YAP, FEDERATED STATES OF MICRONESIA 5.0 MI (8.0 KM) FROM THE VILLAGE OF COLONIA ON THE OLD AIRPORT. TO REACH THE STATION FROM THE VILLAGE OF COLONIA, PROCEED WSW 3.1 MI (5.0 KM) TOWARD THE AIRPORT.  AT THIS POINT THERE IS A RIGHT TURN INTO THE PRESENT AIRPORT.  THE PAVEMENT ENDS HERE, CONTINUE STRAIGHT ON THE GRAVEL ROAD FOR 1.0 MI (1.6 KM) TO A GRAVEL ROAD LEFT. TURN LEFT AND PROCEED 1.0 MI (1.6 KM) TO THE OLD AIRPORT RUNWAY.  TURN RIGHT ON OLD RUNWAY AND PROCEED WEST TO THE WEST END OF THE RUNWAY. TURN AROUND AND PROCEED NNE ALONG S EDGE OF RUNWAY FOR 492 FT (150.0 M) TURN RIGHT AND PROCEED S FOR 197 FT (60.0 M) AND THE STATION. THE STATION IS A U. S. ARMY CORPS OF ENGINEERS DISK STAMPED TTS-3 1965 SET IN THE TOP OF A CONCRETE MONUMENT FLUSH WITH THE GROUND.",
+            "elevation": 16,
+            "history": [
+                {
+                    "date": "1965",
+                    "condition": "MONUMENTED",
+                    "reporter": "USACE"
+                },
+                {
+                    "date": "19930824",
+                    "condition": "GOOD",
+                    "reporter": "NOS"
+                }
+            ],
+            "id": "AA4456",
+            "lat": 9.485066044444444,
+            "long": 138.0744131666667,
+            "magnetic": "NO MAGNETIC MATERIAL",
+            "setting": "undefinedSET IN TOP OF CONCRETE MONUMENT",
+            "stability": "MAY HOLD, BUT OF TYPE COMMONLY SUBJECT TOSURFACE MOTION",
+            "type": "SURVEY DISK"
+        },
+        {
+            "description": "DESCRIBED BY NATIONAL OCEAN SERVICE 1993 (JGF) THE STATION IS AT THE XAVIER HIGH SCHOOL ON THE ISLAND OF WONO, CHUUK STATE, FEDERATED STATES OF MICRONESIA. TO REACH THE STATION FOM THE CHUUK INTERNATIONAL AIRPORT TAKE THE MAIN ROAD TO THE NORTHEAST FOR 5 MI (8.0 KM) TO THE END OF THE PAVEMENT AND ONE LANE ROAD TO THE RIGHT. TURN RIGHT AND FOLLOW THE ONE LANE ROAD TO A Y-INTERSECTION.  TURN RIGHT AND UPHILL AND CONTINUE TO THE SCHOOL. THE STATION IS AT THE EDGE OF A GRASSY FIELD BEHIND THE GYMNASIUM AND NEAR THE NORTHEAST CORNER OF THE BOYS DORM.  CHECK WITH THE SCHOOL HEAD MASTER BEFORE GOING ON PROPERTY.",
+            "elevation": 54,
+            "history": [
+                {
+                    "date": "1990",
+                    "condition": "MONUMENTED",
+                    "reporter": "LDGO"
+                },
+                {
+                    "date": "19930828",
+                    "condition": "GOOD",
+                    "reporter": "NOS"
+                }
+            ],
+            "id": "AA4426",
+            "lat": 7.447028452777778,
+            "long": 151.88726200555556,
+            "magnetic": "NO MAGNETIC MATERIAL",
+            "setting": "undefinedUNSPECIFIED SETTING",
+            "stability": "MARK OF QUESTIONABLE OR UNKNOWN STABILITY",
+            "type": "SURVEY DISK"
+        },
+        {
+            "description": "DESCRIBED BY NATIONAL OCEAN SERVICE 1993 (JGF) THE STATION IS LOCATED ON YAP AIRPORT ON THE ISLAND OF YAP, YAP STATE, FEDERATED STATES OF MICRONESIA. TO REACH THE STATION FROM THE TERMINAL BUILDING OF THE AIRPORT, PROCEED ON THE JET PAD THROUGH THE GATE TO THE LEFT SIDE OF THE TERMINAL. THE STATION IS LOCATED ON THE HIGH PORTION OF GROUND TO THE LEFT SIDE OF THE TAXIWAY JUST BEFORE YOU REACH THE RUNWAY, ABOUT 300 FT (91.4 M) FROM THE TERMINAL BUILDING. THE STATION IS ON THE HIGHEST PORTION OF LAND THAT COMES TO A POINT AT THE JUNCTION OF THE RUNWAY AND TAXIWAY. THE STATION IS A STANDARD LAND MANAGEMENT DISK STAMPED -MN-3-.                            STATION RECOVERY (2011)  RECOVERY NOTE BY INDIVIDUAL CONTRIBUTORS 2011 (AKP) RECOVERED IN GOOD CONDITION.",
+            "elevation": 31,
+            "history": [
+                {
+                    "date": "UNK",
+                    "condition": "MONUMENTED",
+                    "reporter": "YAP"
+                },
+                {
+                    "date": "19930824",
+                    "condition": "GOOD",
+                    "reporter": "NOS"
+                },
+                {
+                    "date": "20110111",
+                    "condition": "GOOD",
+                    "reporter": "INDIV"
+                }
+            ],
+            "id": "AA4455",
+            "lat": 9.498871752777777,
+            "long": 138.08514161388888,
+            "magnetic": "NO MAGNETIC MATERIAL",
+            "setting": "undefinedSET IN TOP OF CONCRETE MONUMENT",
+            "stability": "MAY HOLD, BUT OF TYPE COMMONLY SUBJECT TOSURFACE MOTION",
+            "type": "SURVEY DISK"
+        }
+    ]
+}
