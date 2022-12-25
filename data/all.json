@@ -236,10 +236,6 @@
     "location": "Nebraska"
   },
   {
-    "file": "ni.json",
-    "location": "Nicaragua"
-  },
-  {
     "file": "nj.json",
     "location": "New Jersey"
   },
@@ -254,10 +250,6 @@
   {
     "file": "nu.json",
     "location": "Managua"
-  },
-  {
-    "file": "ne.json",
-    "location": "Nebraska"
   },
   {
     "file": ["nv0.json", "nv1.json"],
