@@ -12,7 +12,7 @@
     "location": "Antigua and Barbuda"
   },
   {
-    "file": ["ak0.json", "ak1.json", "ak2.json"],
+    "file": ["ak0.json", "ak1.json"],
     "location": "Alaska"
   },
   {
@@ -20,7 +20,7 @@
     "location": "Alabama"
   },
   {
-    "file": ["ar0.json", "ar1.json"],
+    "file": "ar.json",
     "location": "Arkansas"
   },
   {
@@ -48,7 +48,7 @@
     "location": "Navassa Island"
   },
   {
-    "file": ["ca0.json", "ca1.json", "ca2.json", "ca3.json", "ca4.json", "ca5.json"],
+    "file": ["ca0.json", "ca1.json", "ca2.json", "ca3.json", "ca4.json"],
     "location": "California"
   },
   {
@@ -56,7 +56,7 @@
     "location": "Cayman Islands"
   },
   {
-    "file": ["co0.json", "co1.json"],
+    "file": "co.json",
     "location": "Colorado"
   },
   {
@@ -92,7 +92,7 @@
     "location": "San Salvador"
   },
   {
-    "file": ["fl0.json", "fl1.json", "fl2.json", "fl3.json", "fl4.json", "fl5.json", "fl6.json"],
+    "file": ["fl0.json", "fl1.json", "fl2.json", "fl3.json", "fl4.json", "fl5.json"],
     "location": "Florida"
   },
   {
@@ -132,7 +132,7 @@
     "location": "Iowa"
   },
   {
-    "file": ["id0.json", "id1.json"],
+    "file": "id.json",
     "location": "Idaho"
   },
   {
@@ -140,7 +140,7 @@
     "location": "Illinois"
   },
   {
-    "file": ["in0.json", "in1.json"],
+    "file": "in.json",
     "location": "Indiana"
   },
   {
@@ -156,11 +156,11 @@
     "location": "Kansas"
   },
   {
-    "file": ["ky0.json", "ky1.json"],
+    "file": "ky.json",
     "location": "Kentucky"
   },
   {
-    "file": ["la0.json", "la1.json", "la2.json"],
+    "file": ["la0.json", "la1.json"],
     "location": "Louisiana"
   },
   {
@@ -188,7 +188,7 @@
     "location": "Marshall Islands"
   },
   {
-    "file": ["mn0.json", "mn1.json", "mn2.json", "mn3.json", "mn4.json"],
+    "file": ["mn0.json", "mn1.json", "mn2.json", "mn3.json"],
     "location": "Minnesota"
   },
   {
@@ -212,11 +212,11 @@
     "location": "New Brunswick"
   },
   {
-    "file": ["nc0.json", "nc1.json", "nc2.json", "nc3.json", "nc4.json"],
+    "file": ["nc0.json", "nc1.json", "nc2.json", "nc3.json"],
     "location": "North Carolina"
   },
   {
-    "file": ["nd0.json", "nd1.json"],
+    "file": "nd.json",
     "location": "North Dakota"
   },
   {
@@ -252,7 +252,7 @@
     "location": "Managua"
   },
   {
-    "file": ["nv0.json", "nv1.json"],
+    "file": "nv.json",
     "location": "Nevada"
   },
   {
@@ -260,7 +260,7 @@
     "location": "Northwest Territories"
   },
   {
-    "file": ["ny0.json", "ny1.json", "ny2.json"],
+    "file": ["ny0.json", "ny1.json"],
     "location": "New York"
   },
   {
@@ -304,7 +304,7 @@
     "location": "South Carolina"
   },
   {
-    "file": ["sd0.json", "sd1.json"],
+    "file": "sd.json",
     "location": "South Dakota"
   },
   {
@@ -332,11 +332,11 @@
     "location": "Trinidad and Tobago"
   },
   {
-    "file": ["tn0.json", "tn1.json"],
+    "file": "tn.json",
     "location": "Tennessee"
   },
   {
-    "file": ["tx0.json", "tx1.json", "tx2.json", "tx3.json", "tx4.json"],
+    "file": ["tx0.json", "tx1.json", "tx2.json", "tx3.json"],
     "location": "Texas"
   },
   {
@@ -348,7 +348,7 @@
     "location": "Utah"
   },
   {
-    "file": ["va0.json", "va1.json", "va2.json"],
+    "file": ["va0.json", "va1.json"],
     "location": "Virginia"
   },
   {
@@ -368,7 +368,7 @@
     "location": "Vermont"
   },
   {
-    "file": ["wa0.json", "wa1.json", "wa2.json"],
+    "file": ["wa0.json", "wa1.json"],
     "location": "Washington"
   },
   {
