@@ -1,0 +1,16 @@
+{
+	"region": "NN",
+	"markers": [
+		{
+			"description": " BY NATIONAL GEODETIC SURVEY 2019 STATION IS A GPS CORS.  LATEST INFORMATION INCLUDING POSITIONS AND VELOCITIES ARE AVAILABLE IN THE COORDINATE AND LOG FILES ACCESSIBLE BY ANONYMOUS FTP OR THE WORLDWIDE WEB.    https://geodesy.noaa.gov/corsdata/coord/coord_14     https://geodesy.noaa.gov/corsdata/station_log     https://geodesy.noaa.gov/CORS",
+			"history": [],
+			"id": "DK4115",
+			"lat": 63.73147766388889,
+			"long": -68.54317500555555,
+			"magnetic": "",
+			"marker": "_MARKER: STATION IS THE ANTENNA REFERENCE POINT OF THE GPS ANTENNA",
+			"setting": "",
+			"stability": ""
+		}
+	]
+}
